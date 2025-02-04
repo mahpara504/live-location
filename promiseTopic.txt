@@ -1,0 +1,10 @@
+promise 
+
+fullfilled/success  => true
+unfullfilled/Reject   =>false
+
+try   =>true/successs
+catch   =>error
+
+
+
